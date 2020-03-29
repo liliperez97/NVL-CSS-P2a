@@ -1,0 +1,11 @@
+<p>   
+   <span>Elena</span>
+   <span>Pedro</span>
+   <span>Rosario</span>
+   <span>Miguel</span>
+</p>
+
+span {
+   background-color: #fabada;
+   color: #000000;
+}
